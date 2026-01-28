@@ -1,0 +1,7 @@
+{
+  "name": "CausalMarketing: AI Attribution & Strategy Platform",
+  "description": "A sophisticated causal inference platform for marketing attribution, featuring Uplift Modeling, Propensity Score Matching (PSM), and ROI optimization insights powered by Gemini 3.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
